@@ -1,0 +1,17 @@
+{
+  "name": "overflow-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Проверка вёрстки на переполнение текстовым контентом",
+  "devDependencies": {
+    "eslint": "7.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "12.16.2"
+  }
+}
